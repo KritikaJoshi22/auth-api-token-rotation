@@ -40,7 +40,7 @@ A secure Express.js API demonstrating automated token rotation using cron jobs, 
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/yourusername/auth-api-token-rotation.git
+git clone https://github.com/KritikaJoshi22/auth-api-token-rotation.git
 cd auth-api-token-rotation
 ```
 
